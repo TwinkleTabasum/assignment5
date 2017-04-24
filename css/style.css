@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.bg-img {
+  position: relative;
+}
+
+img{
+max-width: 100%;
+width:100%;
+}
+
+.logo{
+	height: 50px;
+width: 80px;
+padding-left: 10px;
+padding-top: 25px;
+float: left;
+}
+
+
+.sign-up{
+    width: 430px;
+	        background: rgba(224, 221, 221, 0.85);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.write {
+     height: 30px;
+    width: 410px;
+    margin: 6px;
+    background: white;
+    color: #2c2c2c;
+    border-radius: 3px;
+
+}
+
+.botton {
+      height: 40px;
+    width: 405px;
+    background: #0B5282;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 10px;
+
+}
+
+h1{
+    color: #4d4d4d;
+    padding-left: 105px;
+    font-size: 35px;
+    float: left;
+    margin: 0;
+    padding-top: 30px;
+}
+
+p{
+	text-align: center;
+
+}
+a{
+	text-decoration: none;
+}
